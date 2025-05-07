@@ -35,3 +35,15 @@ Wireframes can be categorized based on their level of detail and functionality. 
 Low-fidelity wireframes are ideal for brainstorming and conceptualizing, while high-fidelity wireframes help communicate final design intentions and functionality more precisely.
 
 ---
+## Wireframe Example
+
+The following is a high-fidelity wireframe created for an Airbnb project:
+
+🔗 [View Airbnb Wireframe on Figma](<insert-your-figma-link-here>)
+
+### Type: High-Fidelity Wireframe
+
+This wireframe represents a **high-fidelity** design because it includes detailed visual elements, layouts, typography, and interactive components that closely resemble the final product. It goes beyond basic structure by incorporating real content and styles, making it suitable for client presentations, user testing, and development handoff.
+
+High-fidelity wireframes like this one are typically used in the later stages of the design process to communicate the final look and functionality of the interface.
+
