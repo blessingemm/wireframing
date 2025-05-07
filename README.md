@@ -14,3 +14,13 @@ Wireframing plays a significant role in the design and development of digital pr
 - **Improves user experience**: Wireframes help ensure the product is intuitive, user-friendly, and aligned with user needs and expectations.
 
 ---
+## Key Elements of a Wireframe
+
+| **Element**         | **Description**                                                                 | **Example**                                                                 | **Contribution to Design**                                                                 |
+|---------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| **Layout Structure** | The basic arrangement of interface components like headers, footers, and sidebars. | Homepage layout with a top header, sidebar for categories, and main content area. | Establishes visual hierarchy and guides user attention across the interface.               |
+| **Navigation**       | Menus, links, and navigational controls that help users move between pages.      | Top navigation bar with links to "Home", "Products", "Contact", etc.         | Enhances usability by making the interface easy to explore and interact with.              |
+| **Content Placement**| Strategic positioning of text, images, videos, and other elements.                | A landing page with a large headline and CTA button at the top.              | Ensures important content is seen quickly and supports a smooth reading/viewing experience. |
+| **Functionality**    | Interactive features such as buttons, forms, sliders, and search bars.            | A sign-up form with input fields and a submit button.                        | Allows users to perform tasks and interact with the system efficiently.                     |
+
+---
