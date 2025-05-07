@@ -61,6 +61,15 @@ High-fidelity wireframes like this one are typically used in the later stages of
 - ❌ = Limited or no native support
 - ⭐ = Rating (out of 5 stars)
 
-> 🔍 *Note: Figma is browser-based and platform-independent, making it a flexible choice for remote teams or those using different operating systems.*
+>  *Note: Figma is browser-based and platform-independent, making it a flexible choice for remote teams or those using different operating systems.*
 
+
+## Benefits of Wireframing in Software Development
+
+| Benefit                          | Description                                                                 | Example                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Guides the Design Process     | Wireframes serve as blueprints for layout and functionality, ensuring the development aligns with design goals. | Airbnb wireframe shows exact structure—developers know what to build.   |
+| Improves Communication        | Offers a shared visual language for the team, minimizing misunderstandings. | Developer sees layout of homepage sections clearly from the wireframe.  |
+| Identifies Functional Gaps    | Highlights missing features or broken flows early before coding begins.     | Wireframe reveals missing booking path—issue solved before dev starts.  |
+| Enhances Team Efficiency      | Allows parallel work, better task division, and clearer QA expectations.    | Teams work faster with defined structure and visual benchmarks.         |
 
