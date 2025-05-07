@@ -39,7 +39,7 @@ Low-fidelity wireframes are ideal for brainstorming and conceptualizing, while h
 
 The following is a high-fidelity wireframe created for an Airbnb project:
 
-🔗 [View Airbnb Wireframe on Figma](<insert-your-figma-link-here>)
+🔗 [View Airbnb Wireframe on Figma](<https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f>)
 
 ### Type: High-Fidelity Wireframe
 
@@ -71,5 +71,37 @@ High-fidelity wireframes like this one are typically used in the later stages of
 | Guides the Design Process     | Wireframes serve as blueprints for layout and functionality, ensuring the development aligns with design goals. | Airbnb wireframe shows exact structure—developers know what to build.   |
 | Improves Communication        | Offers a shared visual language for the team, minimizing misunderstandings. | Developer sees layout of homepage sections clearly from the wireframe.  |
 | Identifies Functional Gaps    | Highlights missing features or broken flows early before coding begins.     | Wireframe reveals missing booking path—issue solved before dev starts.  |
-| Enhances Team Efficiency      | Allows parallel work, better task division, and clearer QA expectations.    | Teams work faster with defined structure and visual benchmarks.         |
+| Enhances Team Efficiency      | Allows parallel work, better task division, and clearer QA expectations.    | Teams work faster with defined structure and visual benchmarks.
+
+## Wireframing in Action
+
+### Project: Travel Booking Web App for a Startup
+
+During the design phase of a travel booking platform, the UX team created a **high-fidelity wireframe** in Figma to model the user journey from homepage to booking confirmation. Stakeholders included UI designers, front-end/back-end developers, and product managers.
+
+### Problem Identified
+
+While reviewing the wireframe, testers noticed the **"Continue Booking"** button on the checkout page was placed below a long section of optional upsell offers. During mock usability tests, several participants either **missed the button entirely** or thought the page ended with the upsell items, leading to confusion and drop-offs.
+
+### Resolution
+
+The team used this early insight to:
+- **Reposition the CTA** (“Continue Booking”) above the upsell section.
+- Add a **sticky footer button** on mobile to maintain visibility.
+- Simplify the upsell layout with collapsible elements.
+
+These changes were made directly in the wireframe and re-tested before development began.
+
+### Outcome
+
+When the app launched:
+- **Booking completion rates increased by 22%** compared to internal benchmarks.
+- Customer feedback highlighted the **clarity and ease of navigation** on the checkout page.
+- Developers avoided time-consuming refactoring since issues were resolved in the design phase.
+
+---
+
+### Conclusion: The Power of Wireframing
+
+Wireframing played a pivotal role in uncovering and fixing usability issues **before a single line of code was written**. By validating ideas early, it ensured a smoother development process and a final product that met user expectations. Ultimately, wireframing is not just a design tool—it’s a strategic asset for delivering **user-friendly, efficient, and successful digital experiences**.
 
