@@ -24,3 +24,14 @@ Wireframing plays a significant role in the design and development of digital pr
 | **Functionality**    | Interactive features such as buttons, forms, sliders, and search bars.            | A sign-up form with input fields and a submit button.                        | Allows users to perform tasks and interact with the system efficiently.                     |
 
 ---
+## Types of Wireframes
+Wireframes can be categorized based on their level of detail and functionality. The two main types are **low-fidelity** and **high-fidelity** wireframes.
+
+| **Type**             | **Description**                                                                 | **When to Use**                                                             |
+|----------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| **Low-Fidelity**     | Basic, rough sketches or digital outlines with simple shapes and placeholder text. Focuses on layout and structure rather than detailed design. | Early in the design process to explore ideas, gather feedback, and iterate quickly without investing much time. |
+| **High-Fidelity**    | Detailed wireframes that closely resemble the final product in terms of layout, typography, and functionality. May include interactive elements. | Later in the design process to validate design decisions and prepare for development handoff.                    |
+
+Low-fidelity wireframes are ideal for brainstorming and conceptualizing, while high-fidelity wireframes help communicate final design intentions and functionality more precisely.
+
+---
