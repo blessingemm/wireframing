@@ -47,3 +47,20 @@ This wireframe represents a **high-fidelity** design because it includes detaile
 
 High-fidelity wireframes like this one are typically used in the later stages of the design process to communicate the final look and functionality of the interface.
 
+## Tool Comparison Table
+
+| Tool        | Platform           | Collaboration | Fidelity Levels Supported | Ease of Use | Best For                                 |
+|-------------|--------------------|----------------|-----------------------------|-------------|-------------------------------------------|
+| **Figma**   | Web, Windows, macOS | ✅ Real-time    | Low & High                  | ⭐⭐⭐⭐☆       | Team collaboration, all-in-one design flow |
+| **Balsamiq**| Web, Windows, macOS | ❌ Limited      | Low Only                    | ⭐⭐⭐⭐⭐       | Quick mockups, early ideation              |
+| **Adobe XD**| Windows, macOS      | ✅ Shared links | High (mostly)              | ⭐⭐⭐⭐☆       | High-fidelity design & Adobe integration   |
+| **Sketch**  | macOS only          | ❌ Plugin-based | High Only                   | ⭐⭐⭐⭐☆       | Pixel-perfect UI design on Mac             |
+
+**Legend:**
+- ✅ = Strong support
+- ❌ = Limited or no native support
+- ⭐ = Rating (out of 5 stars)
+
+> 🔍 *Note: Figma is browser-based and platform-independent, making it a flexible choice for remote teams or those using different operating systems.*
+
+
